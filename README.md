@@ -15,16 +15,17 @@ Built using Python (Flask) for the backend and HTML, CSS, and JavaScript for the
 - Version Control: Git, GitHub
 
 ## Project Structure
-Password-Generator/
-│
-├── app.py
-├── passwordgenerator.py
-├── templates/
-│ └── index.html
-├── static/
-│ ├── style.css
-│ └── script.js
-└── README.md
+
+    Password-Generator/
+    │
+    ├── app.py
+    ├── passwordgenerator.py
+    ├── templates/
+    │   └── index.html
+    ├── static/
+    │   ├── style.css
+    │   └── script.js
+    └── README.md
 
 ## How to Run
 
@@ -49,4 +50,5 @@ Password-Generator/
 ## Description
 This project demonstrates basic full-stack web development using Python and Flask.  
 It focuses on clean UI design, backend validation, and frontend–backend communication.
+
 
